@@ -1,0 +1,19 @@
+{
+  "name": "aprendeinformatica",
+  "version": "1.0.0",
+  "description": "Aplicacion de preguntas y respuestas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doble-l/aprendeinformatica.git"
+  },
+  "author": "Doble L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doble-l/aprendeinformatica/issues"
+  },
+  "homepage": "https://github.com/doble-l/aprendeinformatica#readme"
+}
